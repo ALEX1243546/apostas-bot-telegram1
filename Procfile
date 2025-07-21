@@ -1,1 +1,2 @@
-python3 bot_telegram.py
+worker: python bot_telegram.py
+publisher: python publicador.py
